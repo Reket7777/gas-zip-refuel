@@ -33,6 +33,7 @@ class ChainInfo:
         324: {"name": "zkSync", "rpc": "https://mainnet.era.zksync.io"},
         1625: {"name": "Gravity", "rpc": "https://gravitychain.io/rpc"},
         100: {"name": "Gnosis", "rpc": "https://rpc.gnosis.gateway.fm"},
+        10143: {"name": "Monad Testnet", "rpc": "https://testnet-rpc.monad.xyz"}
         # Add more chains as needed
     }
 
